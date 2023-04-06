@@ -1,4 +1,8 @@
 Exercise 1
+
+/*
+Write a program to accept any character from keyboard and display whether it is vowel or not.
+*/
 #include <iostream>
 using namespace std;
 
@@ -16,6 +20,9 @@ int main() {
 }
 
 Exerces 2
+/*
+Write a program that gives grade based on the following scale using if else statement:
+*/
 #include <iostream>
 using namespace std;
 
@@ -56,6 +63,9 @@ int main() {
 
 
 Exercise 3
+/*
+Write a program that display greatest of three numbers using if statement accept input from user.
+*/
 #include <iostream>
 using namespace std;
 
@@ -85,6 +95,9 @@ int main() {
 }
 
 Exercise 4
+/*
+Write a program that calculates sum of numbers from 1 to 100.
+*/
 #include <iostream>
 
 int main() {
@@ -96,7 +109,10 @@ int main() {
     return 0;
 }
 
-Exercise 3
+Exercise 5
+/*
+Write a program that displays numbers between 0 -100 that are divisible by 2, 3, and   5. The numbers displayed should be those that can be divided by 2, 3, and 5 without remainder.
+*/
 #include <iostream>
 
 using namespace std;
@@ -110,7 +126,10 @@ int main() {
    return 0;
 }
 
-Exercise 5
+Exercise 6
+/*
+Write a program that calculates factorial using for loop, while loop and do while loops. The program should accept the number and then perform the calculation of the factorial.
+*/
 
 #include <iostream>
 
@@ -155,7 +174,10 @@ int main() {
     return 0;
 }
 
-Exercise 6
+Exercise 7
+/*
+Write a while loop that prints the average of numbers from 1 to 10
+*/
 #include <iostream>
 using namespace std;
 
@@ -172,5 +194,4 @@ int main() {
     cout << "The average is: " << average << endl;
     return 0;
 }
-
 
