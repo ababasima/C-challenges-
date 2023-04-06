@@ -18,6 +18,8 @@ return 0;
 }
 
 Exercise 2
+ /*Write a program that accepts two integers and display the sum, difference, product and division of the two numbers. The program should also state the greater and smaller number.
+ */
 #include <iostream>
 using namespace std;
 
@@ -50,6 +52,7 @@ return 0;
 }
 
 Exercise 3
+/* Write a program that calculate and display the circumference of a circle. (C = 2∏r )*/
 #include <iostream>
 using namespace std;
 
@@ -68,6 +71,13 @@ return 0;
 }
 
 Exercise 4
+
+/*
+4. Write a program to solve a quadratic equation. 
+Hint:       y = ax2 + bx + c
+                root = (-b ± sqrt(b2 -4ac)) /  2a
+Note: include math.h to use square root function(sqrt(double)) 
+*/
 
 #include <iostream>
 #include <math.h>
@@ -96,6 +106,5 @@ cout << "The quadratic equation has no real roots" << endl;
 
 return 0;
 }
-
 
 
